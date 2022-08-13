@@ -1,25 +1,28 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to YongC's Dev Garage!"
 date:   2022-08-13 10:49:12 +0000
-categories: jekyll update
+permalink: /blog/
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hi, there!
 
-Jekyll also offers powerful support for code snippets:
+Welcome to my first blog named "YongC's Dev Garage"
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+This is the place for learning about development.
+---
+'Slow and Steady wins the race'
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+I like this phrase because I'm doing very slowly for anything, learning, exercises, reading, etc...
+and also like the words that Nietzsche said,
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+"He who has a 'why' to live for can bear almost any 'how'" - Friedrich Nietzsche{:.notice}
+
+My favorite language is Python because I have a interest in many fields of Data Science.
+
+Web development using Django is another interest.
+
+I'm not good at english but I hope to being bilanguial. so I try to write english as much as possible.
+
+
+#Let's take a fantastic but little boring trip with me !
